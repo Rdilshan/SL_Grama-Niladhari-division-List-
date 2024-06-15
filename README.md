@@ -15,7 +15,7 @@ This package provides a list of all Grama Niladhari (GN) divisions in Sri Lanka.
 To install the package, use npm:
 
 ```sh
-npm install sri-lanka-administrative-divisions
+npm i @rdilshan/gn-division
 
 ```
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rdilshan)
