@@ -1,11 +1,23 @@
 {
   "name": "@rdilshan/gn-division",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "author": "Randika Dilshan",
+  "license": "MIT",
+  "description": "Sri Lanka Administrative Divisions Package",
+  "repository": "https://github.com/Rdilshan/SL_Grama-Niladhari-division-List-",
+  "homepage": "https://github.com/Rdilshan/SL_Grama-Niladhari-division-List-",
+  "keywords": [
+    "Grama Niladhari",
+    "Lists of subdivisions of Sri Lanka",
+    "GN Division List",
+    "sri lanka",
+    "Divisions Package",
+    "rdilshan",
+    "Grama Niladhari npm",
+    "gn-division"
+  ]
 }
